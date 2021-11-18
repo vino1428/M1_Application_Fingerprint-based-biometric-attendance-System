@@ -1,4 +1,2 @@
-*
-ARCHITECTURE:
-*
+*ARCHITECTURE:
 Add UML Diagram
