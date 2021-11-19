@@ -6,5 +6,5 @@ REQUIREMENTS:
 
 
 
+![16373086021132304295859324053026](https://user-images.githubusercontent.com/94214304/142586605-46877526-2c3a-46d9-8484-0ae3c3c2c896.jpg)
 
-https://github.com/vino1428/M1_figureprint-based-biometric-attendance/issues/3#issue-1058249839
