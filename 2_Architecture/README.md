@@ -1,5 +1,7 @@
 ARCHITECTURE
-Add UML Diagram
-Tools Required
+* Add UML Diagram
+* Tools Required
+
+
 DESIGN
-Testing
+* Testing
