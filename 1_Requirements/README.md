@@ -4,3 +4,7 @@ REQUIREMENTS:
 * Connectivity- Internet connectivity is a required feature of the biometric machine. We are talking about connectivity can be additional to have backup of the data quickly using an external device.
 * Identification Time- The success of a biometric attendance system depends on the time taken for the identification by the biometric machine.
 
+
+
+
+https://github.com/vino1428/M1_figureprint-based-biometric-attendance/issues/3#issue-1058249839
