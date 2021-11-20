@@ -1,0 +1,17 @@
+These are the folllowing requirements for project:
+
+HLR:
+1. Arduino Board
+2. Finger Print Sensor
+3. RTC Module
+4. Potentiometer
+5. Push Buttons
+6. Connecting Wires
+
+
+
+LLR:
+1. LCD Display
+2. Buzzer
+3. LED
+4. Breadboard
