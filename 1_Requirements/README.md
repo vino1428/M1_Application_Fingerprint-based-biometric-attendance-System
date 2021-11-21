@@ -21,3 +21,30 @@ SWOT ANALYSIS
 
 
 ![swot-page0001](https://user-images.githubusercontent.com/94214304/142602305-2ad1e459-43af-4ac7-9afa-4b601430e510.jpg)
+
+
+
+
+
+
+4W's and 1'H
+
+Who:
+* Organisation looking for perfect attandance system
+* peoples in security flatform
+
+Where:
+* It is used in system for criminal ID's such fingerprint or palm print authentication system.
+* Airport security
+
+Why:
+* It is easy to use
+* It is secure
+* It is scalable
+
+What:
+* It is time consuming
+* Provides error free data base
+
+How:
+* It work by capturing the pattern of ridges and valleys on a finger
