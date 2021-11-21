@@ -1,3 +1,13 @@
+
+Introduction:
+The most common use of this system is to manage students attendance in school & collages. Traditionally faculties take attendance manually and manages records on paper. This process is very time consuming, non- user friendly and tedious .To resolve mentioned issues, we are developing a fingerprint attendance system to help faculty members, in this project, many of the processes are automated which perform activities like progress report of the student. This will result in more free time for faculty which can be spend improving student skill development & co-curricular activities. Fingerprint identification is one of the most well known and common biometric identification system Because of their uniqueness & consistency over time. The record of the fingerprints of various students and other information will be maintained in a database. The communication between the pc and module was done by ARDUINO REV3 (clone) circuit.
+
+
+
+
+
+
+
 REQUIREMENTS:
 * Access Control- Biometric systems can also be used for security purposes like restricting non-authorised personnel into protected areas of the building.
 * User Capacity- Look for a biometric attendance system that can store and verify a large numbers of templates even if your organisation has just a few employees currently.
