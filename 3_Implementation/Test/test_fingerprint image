@@ -1,0 +1,14 @@
+uint8_t getFingerprintEnroll() 
+{
+  int p = -1;
+  lcd.clear();
+  lcd.print("finger ID:");
+  lcd.print(id);
+  lcd.setCursor(0,1);
+  lcd.print("Place Finger");
+  delay(2000);
+  while (p != FINGERPRINT_OK)
+  {
+    p = finger.getImage();
+..... .....
+....... ...
