@@ -11,7 +11,7 @@ Connectivity- Internet connectivity is a required feature of the biometric machi
 Identification Time- The success of a biometric attendance system depends on the time taken for the identification by the biometric machine
 
 # **SWOT ANALYSIS**
-![swot-page0001](https://user-images.githubusercontent.com/94214304/142602305-2ad1e459-43af-4ac7-9afa-4b601430e510.jpg)
+
 # **4W's AND 1H's**
 
 # **WHO**:
