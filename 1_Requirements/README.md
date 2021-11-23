@@ -21,6 +21,7 @@ Identification Time- The success of a biometric attendance system depends on the
 * Professional optical technology, precise module manufacturing techniques
 * Good image processing capabilities can successfully capture image up to resolution 500 dpi
 
+
 # **4W's AND 1H's**
 
 # **WHO**:
