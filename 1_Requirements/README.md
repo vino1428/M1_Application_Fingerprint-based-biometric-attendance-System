@@ -37,7 +37,7 @@ Identification Time- The success of a biometric attendance system depends on the
 * It is secure
 * It is scalable
 
-# **What**:
+# **WHAT**:
 * It is time consuming
 * Provides error free data base
 
