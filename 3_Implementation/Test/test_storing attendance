@@ -1,0 +1,16 @@
+void attendance(int id)
+{
+  int user=0,eepLoc=0;
+  if(id == 1)
+  {
+    eepLoc=0;
+    user=user1++;
+  }
+  else if(id == 2)
+  {
+    eepLoc=210;
+    user=user2++;
+  }
+  else if(id == 3)
+  .... ....
+  .....
