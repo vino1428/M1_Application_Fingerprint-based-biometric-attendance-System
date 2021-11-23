@@ -1,0 +1,22 @@
+int result=getFingerprintIDez();
+    if(result>0)
+    {
+              digitalWrite(indFinger, LOW);
+              digitalWrite(buzzer, HIGH);
+              delay(100);
+              digitalWrite(buzzer, LOW);
+              lcd.clear();
+              lcd.print("ID:");
+              lcd.print(result);
+              lcd.setCursor(0,1);
+              lcd.print("Please Wait....");
+              delay(1000);
+              attendance(result);
+              lcd.clear();
+              lcd.print("Attendance ");
+              lcd.setCursor(0,1);
+              lcd.print("Registed");
+              delay(1000);
+        digitalWrite(indFinger, HIGH);
+        return;
+ }
