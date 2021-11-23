@@ -21,3 +21,6 @@
 
 
 # **LOW LEVEL TESTPLAN**
+| **TEST ID** | **DESCRIPTION** | **EXPECTED I/P** | **ACTUAL O/P** | **EXPECTED O/P** |
+| :------------:  | :------------------: | :------------------: | :-----------------: | :-------------------: |
+|L1                  | To print the message in LCD Board | Activate the Push Button | Display the message in LCD | Display the message in LCD |
