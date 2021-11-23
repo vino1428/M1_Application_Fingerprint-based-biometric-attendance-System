@@ -1,7 +1,7 @@
-ARCHITECTURE
+# **ARCHITECTURE**
 * Add UML Diagram
 * Tools Required
 
 
-DESIGN
+# **DESIGN**
 * Testing
