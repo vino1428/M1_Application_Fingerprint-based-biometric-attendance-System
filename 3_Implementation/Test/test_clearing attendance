@@ -1,0 +1,14 @@
+if(digitalRead(del) == 0)
+    {
+      lcd.clear();
+      lcd.print("Please Wait");
+      lcd.setCursor(0,1);
+      lcd.print("Reseting.....");
+      for(int i=1000;i<1005;i++)
+      EEPROM.write(i,0);
+      for(int i=0;i<841;i++)
+      EEPROM.write(i, 0xff);
+      lcd.clear();
+      lcd.print("System Reset");
+      delay(1000);
+    }
