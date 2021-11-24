@@ -14,6 +14,7 @@ Identification Time- The success of a biometric attendance system depends on the
 ![ANALYSIS](https://user-images.githubusercontent.com/94214304/142988505-57b176b3-0d84-421e-9ffc-e7bff48a7574.jpg)
 
 
+
 # **Features**
 * Integrated image collecting and algorithm chip together, ALL-in-One
 * Fingerprint can conduct secondary development & embedded into a variety of end products
