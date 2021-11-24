@@ -54,3 +54,6 @@ Identification Time- The success of a biometric attendance system depends on the
 
 ![328439_1_En_26_Fig2_HTML](https://user-images.githubusercontent.com/94214304/143255050-51d5ba70-0f32-46cd-8328-96df68ddd17b.gif)
 
+# **UML DIAGRAM**
+
+![Attendance Management System](https://user-images.githubusercontent.com/94214304/143255964-3bc41c79-e959-464c-9633-191fed1655a1.jpg)
