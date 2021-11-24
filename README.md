@@ -4,3 +4,5 @@
 
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/vino1428/M1_Application_figureprint-based-biometric-attendance?style=flat-square)
+
+![image](https://user-images.githubusercontent.com/94214304/143209320-735fe802-412c-4b56-8734-c518993e8ea5.png)
