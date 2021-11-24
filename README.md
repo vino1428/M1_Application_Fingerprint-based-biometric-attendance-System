@@ -4,4 +4,5 @@
 
 
 
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/vino1428/M1_Application_figureprint-based-biometric-attendance)
 ![GitHub Repo stars](https://img.shields.io/github/stars/vino1428/M1_Application_figureprint-based-biometric-attendance?style=flat-square)
