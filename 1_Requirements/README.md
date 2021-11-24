@@ -13,7 +13,6 @@ Identification Time- The success of a biometric attendance system depends on the
 # **SWOT ANALYSIS**
 ![ANALYSIS](https://user-images.githubusercontent.com/94214304/142988505-57b176b3-0d84-421e-9ffc-e7bff48a7574.jpg)
 
-![State+of+the+Art](https://user-images.githubusercontent.com/94214304/143182179-37360e0d-6db6-4494-93ea-499dbf1ce212.jpg)
 
 # **Features**
 * Integrated image collecting and algorithm chip together, ALL-in-One
