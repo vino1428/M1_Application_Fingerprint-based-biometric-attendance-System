@@ -27,3 +27,8 @@
 | :------------:  | :------------------: | :------------------: | :-----------------: | :-------------------: |
 |L1                  | To print the message in LCD Board | Activate the Push Button | Display the message in LCD | Display the message in LCD |
 |L1                  | To produce sound | Activate the Push Button | Beep sound | Beep sound |
+
+
+
+# **OUTPUT**
+![output](https://user-images.githubusercontent.com/94214304/143258826-3fbd670a-8b63-470b-9e47-664c16867b2a.jpg)
