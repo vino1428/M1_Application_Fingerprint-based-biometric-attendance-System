@@ -7,4 +7,4 @@
 |  [![Build_linux](https://github.com/samstyle321/M1_App_Billing_System/actions/workflows/build_linux.yml/badge.svg)](https://github.com/samstyle321/M1_App_Billing_System/actions/workflows/build_linux.yml) | [![Unit_Testing](https://github.com/samstyle321/M1_App_Billing_System/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/samstyle321/M1_App_Billing_System/actions/workflows/unit_testing.yml) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2b25054a2c1743cd9c6434b74f0434ee)](https://www.codacy.com/gh/vino1428/M1_Application_Fingerprint-based-biometric-attendance-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vino1428/M1_Application_Fingerprint-based-biometric-attendance-System&amp;utm_campaign=Badge_Grade)  | [![Static code Cppcheck](https://github.com/samstyle321/M1_App_Billing_System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/samstyle321/M1_App_Billing_System/actions/workflows/cppcheck.yml) |
 
 
-https://api.codiga.io/project/29991/score/svg
+
