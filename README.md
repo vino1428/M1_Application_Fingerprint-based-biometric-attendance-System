@@ -5,6 +5,4 @@
 | Codacy | 
 | :----: |
 | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2b25054a2c1743cd9c6434b74f0434ee)](https://www.codacy.com/gh/vino1428/M1_Application_Fingerprint-based-biometric-attendance-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vino1428/M1_Application_Fingerprint-based-biometric-attendance-System&amp;utm_campaign=Badge_Grade)
-| Code quality score|
-| :----------------:|
-![code quality score](https://app.codiga.io/public/user/github/vino1428)
+
