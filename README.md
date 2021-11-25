@@ -10,7 +10,7 @@
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Build Windows](https://github.com/vino1428/M1_Application_Fingerprint-based-biometric-attendance-System/actions/workflows/build_windows.yml/badge.svg)](https://github.com/vino1428/M1_Application_Fingerprint-based-biometric-attendance-System/actions/workflows/build_windows.yml) |
 
-| [![Valgrind](https://github.com/vino1428/M1_Application_Fingerprint-based-biometric-attendance-System/actions/workflows/Valgrid.yml/badge.svg)](https://github.com/vino1428/M1_Application_Fingerprint-based-biometric-attendance-System/actions/workflows/Valgrid.yml) |
+| [![Valgrid](https://github.com/vino1428/M1_Application_Fingerprint-based-biometric-attendance-System/actions/workflows/Valgrid.yml/badge.svg)](https://github.com/vino1428/M1_Application_Fingerprint-based-biometric-attendance-System/actions/workflows/Valgrid.yml) |
 
 
 
