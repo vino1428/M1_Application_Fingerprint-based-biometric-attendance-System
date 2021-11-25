@@ -10,7 +10,6 @@
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Build Windows](https://github.com/vino1428/M1_Application_Fingerprint-based-biometric-attendance-System/actions/workflows/build_windows.yml/badge.svg)](https://github.com/vino1428/M1_Application_Fingerprint-based-biometric-attendance-System/actions/workflows/build_windows.yml) | [![Valgrid](https://github.com/vino1428/M1_Application_Fingerprint-based-biometric-attendance-System/actions/workflows/Valgrid.yml/badge.svg)](https://github.com/vino1428/M1_Application_Fingerprint-based-biometric-attendance-System/actions/workflows/Valgrid.yml) |
 
-| Codiga Badge |
-|--------|
-![Codiga Badge](https://api.codiga.io/project/29991/score/svg)
-![Codiga Badge](https://api.codiga.io/project/29991/status/svg)
+| Code quality score| code grade|
+|-------------------| ---------- |
+|![Code quality score](https://api.codiga.io/project/29991/score/svg) |![Code grade](https://api.codiga.io/project/29991/status/svg)
